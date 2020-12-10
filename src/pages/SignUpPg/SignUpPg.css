@@ -1,0 +1,11 @@
+.welcome-msg {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+        Arial, sans-serif;
+}
+aside {
+    width: 50%;
+}
+
+.container-sign-up-page {
+    min-height: calc(100vh - (100px + 50px));
+}

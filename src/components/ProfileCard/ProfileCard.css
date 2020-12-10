@@ -1,0 +1,13 @@
+.profile-card {
+    max-width: 350px;
+}
+
+.profile-card img {
+    width: 100%;
+    height: 100%;
+}
+
+a.btn.profile-card {
+    color: white !important;
+    background: var(--theme-button-color);
+}

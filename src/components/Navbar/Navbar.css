@@ -1,0 +1,35 @@
+.main-navbar {
+    height: 45px;
+}
+
+.navbar-nav a {
+    padding-top: 10px;
+    padding-bottom: 6px;
+    border-bottom: 4px solid transparent;
+}
+
+.navbar-nav a:hover {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom: 4px solid white;
+}
+
+a.this-tab {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom: 4px solid white;
+}
+
+.nav-item.dropdown a {
+    padding-top: 10px;
+    padding-bottom: 6px;
+    border-bottom: 4px solid transparent;
+}
+
+.nav-item.dropdown a:hover {
+    border-bottom: 4px solid white;
+}
+
+.dropdown-menu a:hover {
+    background: rgb(232, 232, 235);
+}

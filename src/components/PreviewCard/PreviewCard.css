@@ -1,0 +1,11 @@
+.preview-card {
+    margin: 10px;
+    float: left;
+    width: 400px;
+    height: 200px;
+}
+
+.card.preview-card img {
+    width: 100%;
+    height: 100%;
+}

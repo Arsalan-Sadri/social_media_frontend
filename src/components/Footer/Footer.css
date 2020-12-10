@@ -1,0 +1,18 @@
+.my-footer {
+    font-size: 0.8em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    background: var(--theme-main-color);
+    color: white;
+
+    height: 45px;
+}
+
+@media screen and (max-width: 460px) {
+    .my-footer {
+        flex-direction: column;
+    }
+}

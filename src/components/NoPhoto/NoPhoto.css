@@ -1,0 +1,13 @@
+.no-photo-div {
+    margin: auto;
+    font-size: 2em;
+    width: 40vw;
+    border: 2px solid rgb(224, 220, 220);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+a.add-photos-link {
+    color: white;
+    background: var(--theme-button-color);
+}

@@ -1,0 +1,43 @@
+label.custom-file-label {
+    font-style: italic;
+}
+
+button.event-form {
+    color: white;
+    background: var(--theme-button-color);
+}
+
+form.sign-up-form {
+    max-width: 400px;
+}
+
+[class^="col-"] input,
+select,
+textarea {
+    font-style: italic;
+}
+
+[class^="col-"] input:focus {
+    background: rgb(231, 222, 171);
+    outline: 0;
+    box-shadow: 0 0 0;
+    border: 0px solid #ced4da;
+}
+
+[class^="col-"] textarea:focus {
+    background: rgb(231, 222, 171);
+    outline: 0;
+    box-shadow: 0 0 0;
+    border: 0px solid #ced4da;
+}
+
+[class^="col-"] select:focus {
+    background: rgb(231, 222, 171);
+    outline: 0;
+    box-shadow: 0 0 0;
+    border: 0px solid #ced4da;
+}
+
+.hide {
+    display: none;
+}

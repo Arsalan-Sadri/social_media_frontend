@@ -1,0 +1,4 @@
+button.upload-photos-btn {
+    color: white;
+    background: var(--theme-button-color);
+}
